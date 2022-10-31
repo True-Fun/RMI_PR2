@@ -1,0 +1,5 @@
+AdditionServer.class
+AdditionImpl.class
+Addition.class
+com\mycompany\pr2_rmi_trufanov\PR2_RMI_Trufanov.class
+AdditionClient.class
